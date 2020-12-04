@@ -4,3 +4,5 @@ Shoping List
 2. Vegetables
 3. Chocolates
 4. Icecream
+5. Biscuits
+6. Cakes
